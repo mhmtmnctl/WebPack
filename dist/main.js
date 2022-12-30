@@ -1,1 +1,1 @@
-alert("Hello WebPack!");
+(()=>{"use strict";alert("Hello WebPack!"),localStorage.setItem("token","sdfnsdfsdfsdfsf7776sdfsdf")})();
